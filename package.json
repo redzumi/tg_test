@@ -5,6 +5,7 @@
   "license": "MIT",
   "dependencies": {
     "socks5-https-client": "^1.2.1",
-    "telegraf": "^3.38.0"
+    "telegraf": "^3.38.0",
+    "telegraf-inline-menu": "^4.0.1"
   }
 }
