@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "main": "main.js",
   "license": "MIT",
+  "scripts": {
+    "start": "node main.js"
+  },
   "dependencies": {
     "socks5-https-client": "^1.2.1",
     "telegraf": "^3.38.0",
